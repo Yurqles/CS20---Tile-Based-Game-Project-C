@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    text-align: auto;
+}
+canvas {
+    border: 5px solid grey;
+}
+p:hover {
+    color: orange;    
+}
